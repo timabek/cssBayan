@@ -1,2 +1,2 @@
 # cssBayan
-https://timabek.github.io/cssBayan/cssBayan/index.html
+https://lively-zuccutto-70fe2b.netlify.app
